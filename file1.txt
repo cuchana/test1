@@ -1,0 +1,3 @@
+Archivo de texto parar prueba 
+con el repositorio
+Git y gitbash
